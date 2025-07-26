@@ -1,4 +1,4 @@
-# ConversAI – LLM-Powered Chatbot for PDF-Based Question Answering
+# ConversAI – LLM-Powered Chatbot
 
 ConversAI is an intelligent chatbot that leverages OpenAI's language models and Pinecone's vector database to answer user queries based on the content of uploaded PDF documents. It uses LangChain to orchestrate document loading, chunking, embedding, storage, retrieval, and response generation — all with natural language.
 

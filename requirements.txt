@@ -1,0 +1,9 @@
+unstructured
+tiktoken
+langchain
+pypdf
+openai
+langchain
+pandas
+numpy
+python-dotenv
